@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UnrealProjects/FPS/Content/BP/BP.uasset",
+				"E:/UnrealProjects/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/T7/Y3FCX2BNTD9BZC4BF53AJE.uasset"
+			]
+		}
+	]
+}
